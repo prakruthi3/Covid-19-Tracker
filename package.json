@@ -31,7 +31,7 @@
     "materialize-css": "^1.0.0-rc.2",
     "moment": "^2.24.0",
     "nivo": "^0.31.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "npm": "^6.14.4",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
